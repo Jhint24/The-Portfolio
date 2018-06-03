@@ -3,13 +3,13 @@
 A way to connect with employers through showcasing my skills and strengths. 
 
 # Testimonials
-�Josh is . . . � 
+"Josh is . . . " 
 ~ Tia, Wells Fargo
 
-�Josh does. . . 
+"Josh does. . ." 
 ~ Trevor, Blue Host
 
-�Josh Will . . .
+"Josh Will . . ."
 ~ Wing, Carvana
 
 
@@ -19,7 +19,8 @@ A way to connect with employers through showcasing my skills and strengths.
 Visit the application [https://.com/)
 
 
-![](Portfolio/img/portshot.png)
+
+![](Final-Portfolio/Portfolio/img/portshot.png)
 
 ## Usages
 
