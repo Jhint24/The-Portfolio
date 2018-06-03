@@ -20,7 +20,7 @@ Visit the application [https://.com/)
 
 
 
-![](Portfolio/img/portshot.png)
+![](Final-Portfolio/Portfolio/img/portshot.png)
 
 ## Usages
 
