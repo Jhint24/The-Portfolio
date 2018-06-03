@@ -25,12 +25,6 @@ Visit the application [https://.com/)
 ## Usages
 
 
-[https://github.com/Jhint24/VoluntArea](https://github.com/jhint24/)
-
-## Contributing
-
-1. Fork it (<https://github.com/Jhint24/VoluntArea/fork>)
-
 ## Current Contributors
 
 Josh @ [https://github.com/Jhint24](https://github.com/jhint24/)
