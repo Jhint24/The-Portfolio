@@ -16,7 +16,7 @@
 		
 			// Set the recipient email address.
 	        // Type here your email id for receive email.
-	        $email_to = "JHint2424@gmail.com"; 
+	        $email_to = "contact@josh.pro"; 
 
 	        // Set the email subject.
 	        $subject = "New Portfolio Email From $name";
