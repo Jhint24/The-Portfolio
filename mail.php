@@ -32,7 +32,7 @@
 	        // Send the email.
 	        $success = mail($email_to, $subject, $email_body, $email_headers);
 	        if ($success){
-			   echo "Email Sent Succesfully";
+			   echo "success";
 			}else{
 			   echo "Something went wrong :(";
 			}
