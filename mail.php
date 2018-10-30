@@ -24,7 +24,7 @@
 	        // Build the email content.
 	        $email_body = "Name: $name\n";
 	        $email_body .= "Email: $email\n\n";
-	        $email_body .= "Message:\n$massage\n";
+	        $email_body .= "Message:\n$message\n";
 
 	        // Build the email headers.
 	        $email_headers = "From: $name <$email>";
@@ -32,7 +32,7 @@
 	        // Send the email.
 	        $success = mail($email_to, $subject, $email_body, $email_headers);
 	        if ($success){
-			   echo "success";
+			   echo "Email Sent Succesfully";
 			}else{
 			   echo "Something went wrong :(";
 			}
