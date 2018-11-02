@@ -137,7 +137,7 @@ $(window).on('load', function() {
     function reset_form() {
       $('#name').val('');
       $('#email').val('');
-      $('#message').val('');
+      $('#massage').val('');
     }
 
     $.ajax({
