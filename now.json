@@ -1,6 +1,7 @@
 {
-  "builds": [
-    { "src": "*.php", "use": "@now/php" },
-    { "src": "*.html", "use": "@now/static" }
-  ]
+  "functions": {
+    "api/test.php": {
+      "runtime": "now-php@0.0.7"
+    }
+  }
 }
