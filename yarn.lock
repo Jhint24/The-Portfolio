@@ -2,3 +2,21 @@
 # yarn lockfile v1
 
 
+"@now-php/lib-74@latest":
+  version "0.0.11"
+  resolved "https://registry.yarnpkg.com/@now-php/lib-74/-/lib-74-0.0.11.tgz#a1a10f1038fd4705f1f9a48f2a076316cb3a9b74"
+  integrity sha512-qoc4yv3PM2lxEtrbPyoWPBrbiaBgtO5zzBHBjwODqaaAfg6VTLc2TpLcitv+0krNz4ijSNL3I0ERfiIW1Hf71Q==
+  dependencies:
+    "@now/build-utils" "^0.9.4"
+
+"@now/build-utils@^0.9.4":
+  version "0.9.14"
+  resolved "https://registry.yarnpkg.com/@now/build-utils/-/build-utils-0.9.14.tgz#9e81828d3a2be697db0d8c44cbe9ae519003ee6f"
+  integrity sha512-fDyo/1Zb2StDhFKfoNf+M9nY5RhfuofpGXVwL8IjYUodze1VPDFX039Ut8zUVlujIFkSl8QMl8iu9fYr0H2ERg==
+
+now-php@^0.0.10:
+  version "0.0.10"
+  resolved "https://registry.yarnpkg.com/now-php/-/now-php-0.0.10.tgz#1fd44bda4ea07e686e9691053165edd872bedb93"
+  integrity sha512-Qu+agOc8lTigH3LEa8/Sgre3g4AG0AeY2Bt9h/shl30zars9rb3miS49OslT3Et1V5bYQgTr9dMoGiOpKbm++w==
+  dependencies:
+    "@now-php/lib-74" latest
